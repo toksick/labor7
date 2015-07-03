@@ -9,3 +9,4 @@ int main(int argc, char *argv[]){
 	betterMerge(10);
 	return(0);
 }
+//das ist ein Test.
